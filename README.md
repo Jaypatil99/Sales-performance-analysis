@@ -48,9 +48,16 @@ Jupyter Notebook → Exploratory analysis & storytelling.
 
 
 📂 Project Structure
+
+
 coffee-chain-analysis/
+
 │── data/                # Dataset - Kaggle (cleaned sample or source link)
+
+
 │── notebooks/           # colab notebooks for analysis
+
+
 │── README.md            # Project documentation
 
 
