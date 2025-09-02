@@ -1,4 +1,5 @@
 Coffee Chain Sales & Profitability Analysis
+
 📌 Project Overview
 
 This project analyzes a fictional Coffee Chain dataset to uncover key factors influencing sales performance and profitability. The analysis provides insights into product categories, market performance, and opportunities for business growth.
